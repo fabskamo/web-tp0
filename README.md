@@ -1,6 +1,3 @@
-# web-tp0
-TP0 do curso de Programação Web do CEFET/MG
-
 <h1>TP0 de Web: Aprendendo Git</h1>
 
 Link para meu perfil na Digital Innovation One (DIO):
